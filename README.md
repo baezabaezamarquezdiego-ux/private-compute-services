@@ -56,6 +56,7 @@ You can learn more about Private Compute Services in this
 ## Note on dependencies
 
 This project depends on the following separate open sourced repositories, as
+
 well as a limited number of dependencies which remain closed source. All API
 definitions are included in the open sourced repos.
 
